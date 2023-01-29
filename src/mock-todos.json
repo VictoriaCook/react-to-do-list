@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "task": "Create React To Do List",
+        "done": true
+    },
+    {
+        "id": 1,
+        "task": "Walk dog",
+        "done": false
+    },
+    {
+        "id": 1,
+        "task": "Do washing",
+        "done": false
+    },
+    {
+        "id": 1,
+        "task": "Prep dinner",
+        "done": false
+    },
+    {
+        "id": 1,
+        "task": "Put kids to bed",
+        "done": false
+    }
+]
